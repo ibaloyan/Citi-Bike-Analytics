@@ -39,13 +39,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How variable is the utilization by bike ID?
 
-**Visualizations:**
+## Visualizations
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 * If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
 
-**Citi Bike Program Analysis:**
+## Citi Bike Program Analysis
+
 * After creating and analyzing our visualizations, there were many phenomena to be uncovered.
 
 * The first being that the trips for the most used bikes are often started on or around the same stations, this may indicate that we need to increase our supply of bicycles in these areas. Adding more bikes to these stations will allow more users to have a bike available as well as preventing the same bikes from enduring heavy usage which will increase our repair fees, or worse, the risk of user injury.
